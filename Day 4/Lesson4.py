@@ -80,4 +80,4 @@ while True:
         print(number) # Print the current element that is being iterated
         if number == target: # Check if the current element is equal to the target value
             print("Target found")
-            break # End the loop immediatly after finding the target
+            break
